@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋; I'm Dr. Vicki, the "Dev Doctor"!
+
+![](https://img.shields.io/twitter/url?label=DrVicki&style=social&url=https%3A%2F%2Ftwitter.com%2FVbealman1)
 
 <!--
 **DrVicki/DrVicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
