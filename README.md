@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dr. Vicki Bealman</h1>
 <h3 align="center">A passionate developer and educator!</h3>
 
-- 🔭 I’m currently working on **Web Dev Curriculum**
+- 🔭 I’m currently working on **Software Development Curriculum and Activities**
 
 - 🌱 I’m currently learning **Django**
 
