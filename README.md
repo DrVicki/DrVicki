@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, JavaScript, Node, SQL, Mongo, AWS**
 
-- 📫 How to reach me **DrVicki@vickibealmanstudio.org**
+- 📫 How to reach me **DrVicki.Bealman@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dr-vicki-bealman/](https://www.linkedin.com/in/dr-vicki-bealman/)
 
